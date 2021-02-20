@@ -1,0 +1,4 @@
+E:\Проекты\интерпритатор\Интер\Интер\obj\Debug\netcoreapp3.1\Интер.csprojAssemblyReference.cache
+E:\Проекты\интерпритатор\Интер\Интер\obj\Debug\netcoreapp3.1\Интер.AssemblyInfoInputs.cache
+E:\Проекты\интерпритатор\Интер\Интер\obj\Debug\netcoreapp3.1\Интер.AssemblyInfo.cs
+E:\Проекты\интерпритатор\Интер\Интер\obj\Debug\netcoreapp3.1\Интер.csproj.CoreCompileInputs.cache
